@@ -1,6 +1,9 @@
 # Cast-Me-King
 Genre - Chiptune
 
+Song Name: Cast Me King
+Artist: Josh Penn-Pierson
+
 [Youtube Link](https://www.youtube.com/watch?v=HQBFB2uVpF0&list=PLye9mcKwe2zy3KW8uK_3F7HVMjJjdqSqU&index=10)
 
 Current Song Version: 1.0
